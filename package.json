@@ -1,0 +1,12 @@
+{
+  "name": "A-Advance-Discord-Music-Bot-Like-Hydra--main",
+  "version": "1.0.0",
+  "description": "[Erela.js docs](https://solaris.codes/projects/erelajs) **Note this Discord Bot Repository is the Same as for the Public Bot [Lava Music](https://lava.milrato.eu) if u want to support me, then please [invite](https://lava.milrato.eu) him!**",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
