@@ -1,4 +1,5 @@
 {
+  "token": "ODY1OTkyMTQzNTQ5MTA0MTYw.YPMECA._SOMIcvqxFYP7mewvg2x7OQqIT8",
   "prefix": ".",
 
   "clientsettings": {
@@ -44,9 +45,9 @@
 
 
   "status": {
-    "text": ".help / uselesx - bot",
+    "text": ".help|Inutile BOT",
     "type": "PLAYING", "COMMENT:": "TYPES ARE: PLAYING, STREAMING, WATCHING, LISTENING",
-    "url": ""
+    "url": "https://twitch.tv/TBG"
   }
 
 }
